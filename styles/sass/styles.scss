@@ -1,0 +1,15 @@
+// Configurations
+$sprite-folders : main;
+
+// General styles
+@import "compass";
+
+// Reset
+@import "compass/reset";
+@include global-reset();
+
+// Sprites
+@import "compass-retina-sprites";
+
+// Box sizing
+@import "compass/css3/box-sizing";
