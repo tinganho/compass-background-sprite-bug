@@ -1,4 +1,5 @@
 node_modules/
 styles/build/
-images/main*
+images/main_*
+images/main2x_*
 .sass-cache
